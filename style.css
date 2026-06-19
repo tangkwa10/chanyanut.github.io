@@ -6,12 +6,14 @@ body {
     background: linear-gradient(to bottom, #d6f4ff, #f0d9ff);
     color: #333;
 }
+
 header {
-    background: #F0E6FF;
+    background: #F0E6FF; /* ม่วงอ่อน */
     color: #333;
     padding: 20px 0;
     text-align: center;
 }
+
 header h1 {
     margin: 0;
 }
@@ -26,3 +28,4 @@ section {
     max-width: 800px;
     background: white;
     border-radius: 8px;
+}
