@@ -3,15 +3,8 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background: linear-gradient(to bottom, #d6f4ff, #f0d9ff);
     color: #333;
-}
-
-header {
-    background: #E6D5F7;
-    color: #333;
-    padding: 20px 0;
-    text-align: center;
 }
 
 header h1 {
